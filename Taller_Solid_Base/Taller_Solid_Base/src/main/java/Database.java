@@ -1,3 +1,3 @@
-public interface Database implements Login {
+public interface Database{
   //Atributos y metodos
 }

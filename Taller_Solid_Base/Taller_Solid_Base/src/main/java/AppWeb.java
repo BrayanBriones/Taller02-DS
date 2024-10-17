@@ -1,4 +1,4 @@
-public class AppWeb {
+public class AppWeb implements Database{
     LogIn logIn;
     Database basededatos;
     public AppWeb (LogIn logIn, Database basededatos) {
