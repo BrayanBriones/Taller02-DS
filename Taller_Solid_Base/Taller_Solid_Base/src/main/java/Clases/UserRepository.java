@@ -1,3 +1,6 @@
+package Clases;
+import Interfaces.Database;
+
 public class UserRepository {
     private Database database;
 
